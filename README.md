@@ -1,5 +1,5 @@
 # Binary-Segmentation-Evaluation-Tool
-This repo is developed for providing a evaluation library for binary image segmentation.
+This repo is developed for the evaluation of binary image segmentation results.
 
 The Code was used for evaluation in CVPR 2019 paper '[*BASNet: Boundary-Aware Salient Object Detection*](http://openaccess.thecvf.com/content_CVPR_2019/html/Qin_BASNet_Boundary-Aware_Salient_Object_Detection_CVPR_2019_paper.html) [code](https://github.com/NathanUA/BASNet)', [Xuebin Qin](https://webdocs.cs.ualberta.ca/~xuebin/), Zichen Zhang, Chenyang Huang, Chao Gao, Masood Dehghan and Martin Jagersand.
 
