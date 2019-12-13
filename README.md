@@ -8,23 +8,33 @@ __Contact__: xuebin[at]ualberta[dot]ca
 ## Required libraries
 
 Python 3.6.6 (version newer than 3.0)
+
 numpy 1.15.2
+
 scikit-image 0.14.0
+
 matplotlib 2.2.3
 
 ## Implemented measures
 
 1. MAE Mean Absolute Error 
+
 2. Precision, Recall, F-measure (This a python implementation of the matlab code [sal_eval_toolbox](https://github.com/ArcherFMY/sal_eval_toolbox))
+
 3. Precision-recall curves
+
 ![Precision-recall curves](test_data/TEST-DATA_pr_curves.png)
+
 4. F-measure curves 
+
 ![F-measure curves](test_data/TEST-DATA_fm_curves.png)
 
 ## Future measures 
 
 IoU Intersection-over-Union
+
 relax boundary F-measure
+
 ...
 
 ## Usage 
