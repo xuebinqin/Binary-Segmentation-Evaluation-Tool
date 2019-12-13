@@ -15,6 +15,10 @@ scikit-image 0.14.0
 
 matplotlib 2.2.3
 
+## Usage 
+
+Please follow the scripts in ```quan_eval_demo.py```
+
 ## Implemented measures
 
 1. MAE Mean Absolute Error 
@@ -37,9 +41,6 @@ relax boundary F-measure
 
 ...
 
-## Usage 
-
-Please follow the scripts in ```quan_eval_demo.py```
 
 ## Citation
 ```
