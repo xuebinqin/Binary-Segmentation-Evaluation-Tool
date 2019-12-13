@@ -61,7 +61,7 @@ plot_save_pr_curves(PRE, # numpy array (num_rs_dir,255), num_rs_dir curves will 
                     yrange = (0.5,1.0), # the showing range of y-axis
                     dataset_name = data_name, # dataset name will be drawn on the bottom center position
                     save_dir = data_dir, # figure save directory
-                    save_fmt = 'pdf') # format of the to-be-saved figure
+                    save_fmt = 'png') # format of the to-be-saved figure
 print('\n')
 
 ## 4. =======Plot and save F-measure curves=========
@@ -75,7 +75,7 @@ plot_save_fm_curves(FM, # numpy array (num_rs_dir,255), num_rs_dir curves will b
                     yrange = (0.0,1.0), # the showing range of y-axis
                     dataset_name = data_name, # dataset name will be drawn on the bottom center position
                     save_dir = data_dir, # figure save directory
-                    save_fmt = 'pdf') # format of the to-be-saved figure
+                    save_fmt = 'png') # format of the to-be-saved figure
 print('\n')
 
 print('Done!!!')

@@ -194,7 +194,7 @@ def plot_save_pr_curves(PRE, REC, method_names, lineSylClr, linewidth, xrange=(0
     order = [len(handles)-x for x in range(1,len(handles)+1)]
     plt.legend([handles[idx] for idx in order], [labels[idx] for idx in order],loc='lower left', prop=font1)
     plt.grid(linestyle='--')
-    fig1.savefig(save_dir+dataset_name+"_pr_curve."+save_fmt,bbox_inches='tight',dpi=300)
+    fig1.savefig(save_dir+dataset_name+"_pr_curves."+save_fmt,bbox_inches='tight',dpi=300)
     print('>>PR-curves saved: %s'%(save_dir+dataset_name+"_pr_curves."+save_fmt))
 
 
