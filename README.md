@@ -23,7 +23,7 @@ Please follow the scripts in ```quan_eval_demo.py```
 
 1. MAE Mean Absolute Error 
 
-2. Precision, Recall, F-measure (This a python implementation of the matlab code [sal_eval_toolbox](https://github.com/ArcherFMY/sal_eval_toolbox))
+2. Precision, Recall, F-measure (This is the python implementation of algorithm in [sal_eval_toolbox](https://github.com/ArcherFMY/sal_eval_toolbox))
 
 3. Precision-recall curves
 
